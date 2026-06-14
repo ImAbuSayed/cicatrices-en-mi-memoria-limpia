@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cicatrices en mi memoria limpia
+
+This log tracks the cryptographic history and versioning for the song **Cicatrices en mi memoria limpia** (cicatrices-en-mi-memoria-limpia).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T20:47:22.436170 | `v1` | `9f2b1f5714d477f0e151a2c057a2287ef73927ea860037fd6da4b9eb3cdd122d` | `7e4545666b480e50a2e13813423449909a1c72100029bcc0a12de142e48fd694` | `2026-06-14_cicatrices-en-mi-memoria-limpia-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
